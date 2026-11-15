@@ -1,0 +1,5 @@
+/app
+/wasooli
+.env
+*.local
+/tmp
